@@ -1,7 +1,7 @@
 {
-  "name": "note-taker",
+  "name": "kt-note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple note taker to help with my adhd distractions",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
