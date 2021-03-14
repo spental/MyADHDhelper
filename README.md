@@ -20,13 +20,13 @@
 
 - App Launched on heroku
 
-<img alt="https://github.com/spental/MyADHDhelper/blob/main/Assets/Images/screenshot-2.png?raw=true" >
+<img src="https://github.com/spental/MyADHDhelper/blob/main/Assets/Images/screenshot-2.png?raw=true" >
   
 # Links
 
 ### Video Walk Through
 
-- <img alt="https://drive.google.com/file/d/1WaECz9vNbeR5idw8xKCBeQlZhyCWx1EN/view?usp=sharing">
+- <img src="https://drive.google.com/file/d/1WaECz9vNbeR5idw8xKCBeQlZhyCWx1EN/view?usp=sharing">
 
 ### Link to GitHub
 
