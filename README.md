@@ -28,6 +28,7 @@
 ### Video Walk Through
 
 - https://drive.google.com/file/d/1WaECz9vNbeR5idw8xKCBeQlZhyCWx1EN/view?usp=sharing
+<img alt="https://drive.google.com/file/d/1WaECz9vNbeR5idw8xKCBeQlZhyCWx1EN/view?usp=sharing" >
 ### Link to GitHub
 
 - https://github.com/spental/MyADHDhelper
