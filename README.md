@@ -16,11 +16,11 @@
 # Screenshot
 - Test and Prompt
 
-<img alt="team profile generator" src= "https://github.com/spental/KingAndQueenStaffProfile/blob/main/assets/images/test.png?raw=true" >
+<img alt="" >
 
 - Results Page
 
-<img alt="team profile generator" src= "https://github.com/spental/KingAndQueenStaffProfile/blob/main/assets/images/generatedTeamPage.png?raw=true" >
+<img alt="" >
   
 
 # Links
